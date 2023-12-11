@@ -9,6 +9,10 @@
 This is a in menory - file system implemented in Python. It provides file/directory management operations such as navigating directories, listing contents, searching for patterns in files, displaying file contents, creating, moving, copying, and removing files and directories. And all requirements.
 
 ## Usage
+## Launch the program
+```
+python main.py
+```
 
 1. **Change Directory (cd):**
    ```
